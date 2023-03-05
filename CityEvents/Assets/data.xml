@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCityEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CityEvent>
+		<Header>Детский бассейн</Header>
+		<Description>Бассейн для детей, проведите незабываемые выходные с разными развлечениями</Description>
+		<Image>../../../Assets/EventPics/1.jfif</Image>
+		<Date>01.01.2023</Date>
+		<Category>1</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Мастер-класс живописи</Header>
+		<Description>Совсем скоро весенний праздник! И пора задуматься о подарках, которые вы подарите своим мамам, бабушкам, сёстрам и подругам. Самый тёплый и приятный подарок - это подарок, в который вы вложили душу и любовь! Мы приглашаем вас создать картину к 8 марта, под руководством художника Академии творчества Новосибирска! Посетить мастер-класс можно вместе с ребенком и провести предпраздничный выходной вместе за творческим процессом. Результатом мастер-класса будет готовая картина 20*30, написанная маслянными красками, которую вы заберете с собой!
+		</Description>
+		<Image>../../../Assets/EventPics/2.jfif</Image>
+		<Date>05.03.2023</Date>
+		<Category>3</Category>
+		<Price>0</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Невидимый слон 12+</Header>
+		<Description>Спектакль создан в форме "театра ощущений", в котором можно воспринимать образы не только глазами, но и потрогать руками, ощутить вкус, аромат, звучание и прикосновение! </Description>
+		<Image>../../../Assets/EventPics/3.jfif</Image>
+		<Date>06.03.2023</Date>
+		<Category>3</Category>
+		<Price>2000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Новосибирск</Header>
+		<Description>Встречаемся с группой перед зданием Оперного театра, недалеко от которого установлена главная городская елка. Осматриваем центральную площадь города, знакомимся с окружающими зданиями. Далее по пешеходной улице Ленина прогуляемся до театра Красный факел.</Description>
+		<Image>../../../Assets/EventPics/4.jfif</Image>
+		<Date>02.03.2023</Date>
+		<Category>4</Category>
+		<Price>2000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Монстр-трак</Header>
+		<Description>Посмотрите вживую на огромные машины. Пилотируемые профессионалами, они подарят вам незабываемые впечатления!</Description>
+		<Image>../../../Assets/EventPics/5.jfif</Image>
+		<Date>13.06.2024</Date>
+		<Category>2</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Чемпионат по футболу</Header>
+		<Description>Местные комманды будут сражаться за звание лучшего в городе!</Description>
+		<Image>../../../Assets/EventPics/6.jfif</Image>
+		<Date>12.06.2023</Date>
+		<Category>2</Category>
+		<Price>0</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Знакомство с метро</Header>
+		<Description>Самые красивые станции самого восточного метро России и центр Новосибирска</Description>
+		<Image>../../../Assets/EventPics/7.jfif</Image>
+		<Date>01.01.2023</Date>
+		<Category>4</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Ордынское кольцо</Header>
+		<Description>Гостям предстоит пересечь Обское водохранилище на пароме, один или два раза. В деревне Нижнекаменка они прогуляются до пруда с лягушками и маленького водопадика на месте древней мельницы, которая там существует уже сотни лет. Сама деревня была основана еще в начале 18 века.</Description>
+		<Image>../../../Assets/EventPics/8.jfif</Image>
+		<Date>02.05.2023</Date>
+		<Category>4</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Водопады и скалы</Header>
+		<Description>Экскурсия по красивейшим местам Искитимского и Маслянинского районов. Мы прогуляемся до скалы Альпинист, по живописной тропе через ароматные поля и луга, увидим завораживающие изгибы реки Бердь.</Description>
+		<Image>../../../Assets/EventPics/9.jfif</Image>
+		<Date>05.03.2023</Date>
+		<Category>4</Category>
+		<Price>1500</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Винный ужин</Header>
+		<Description>7 марта в Гастроинкубаторе ужин в 4 руки в исполнении шеф-повара с мировым опытом Николая Ильина, а также участника «Молодых ножей» Евгения Лягаева. </Description>
+		<Image>../../../Assets/EventPics/10.jfif</Image>
+		<Date>07.03.2023</Date>
+		<Category>5</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Что? Где? Когда?</Header>
+		<Description>Вам нравятся интеллектуальные игры? Любите квизы, но устали щёлкать простые вопросы, а хотите чего-то посложнее? Хотите узнать побольше о таинственных АЛЬФАХ, ИКСАХ, ершонимах, заменах, пропусках, дуплетах? Мечтаете быть с профессиональными редакторами вопросов на одной волне? Желаете сравнить свои результаты с другими командами по всему миру?</Description>
+		<Image>../../../Assets/EventPics/11.jpg</Image>
+		<Date>08.05.2023</Date>
+		<Category>5</Category>
+		<Price>0</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>КОРОЛЕВА ТАНЦПОЛА!</Header>
+		<Description>ГЛАВНЫЙ ПРИЗ В РОЗЫГРЫШЕ СРЕДИ ДЕВУШЕК: ТОПОВЫЕ НАУШНИКИ AirPods Pro!</Description>
+		<Image>../../../Assets/EventPics/12.jfif</Image>
+		<Date>04.04.2023</Date>
+		<Category>6</Category>
+		<Price>1000</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Родительская академия</Header>
+		<Description>2023 год объявлен Президентом Российской Федерации годом педагога и наставника. Первыми наставниками в жизни каждого человека являются его родители, от мудрости и чуткости которых зависит многое на жизненном пути ребенка.</Description>
+		<Image>../../../Assets/EventPics/13.jpg</Image>
+		<Date>15.04.2023</Date>
+		<Category>7</Category>
+		<Price>0</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Винное казино</Header>
+		<Description>Винное казино – интерактивная винная игра, где гости вслепую дегустируют вина и отгадывают сорт, страну и регион производства по цвету, аромату и интересным подсказкам сомелье.</Description>
+		<Image>../../../Assets/EventPics/14.jpg</Image>
+		<Date>12.04.2023</Date>
+		<Category>8</Category>
+		<Price>2500</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Бесплатный курс</Header>
+		<Description>Обучение бесплатное. Курс подойдет тем, кто имеет навыки программирования на любом языке.</Description>
+		<Image>../../../Assets/EventPics/15.jpg</Image>
+		<Date>15.03.2023</Date>
+		<Category>8</Category>
+		<Price>0</Price>
+	</CityEvent>
+	<CityEvent>
+		<Header>Голодный Зверь</Header>
+		<Description>11 марта группа «Голодный Зверь » приглашает всех на концерт по случаю своего 10-летия в Ульяновске!</Description>
+		<Image>../../../Assets/EventPics/16.jpg</Image>
+		<Date>11.03.2023</Date>
+		<Category>9</Category>
+		<Price>1000</Price>
+	</CityEvent>
+</ArrayOfCityEvent>
